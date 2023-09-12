@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\bekeres\bekeress\bekeress\bin\Debug\bekeress.exe.config
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\bekeres\bekeress\bekeress\bin\Debug\bekeress.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\bekeres\bekeress\bekeress\bin\Debug\bekeress.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\bekeres\bekeress\bekeress\obj\Debug\bekeress.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\bekeres\bekeress\bekeress\obj\Debug\bekeress.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\bekeres\bekeress\bekeress\obj\Debug\bekeress.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\bekeres\bekeress\bekeress\obj\Debug\bekeress.pdb

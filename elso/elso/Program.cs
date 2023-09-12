@@ -103,14 +103,7 @@ namespace elso
                 kezd++;
                
             }
-            /*
-            Console.WriteLine();
-            //for ciklus
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine(i);//kiírás
-            }
-            */
+           
             Console.WriteLine();
 
 
@@ -129,6 +122,13 @@ namespace elso
             for(int i = 0; i < 10; i++)
             {
                 Console.WriteLine(9 - i);
+            }
+            for (int i = 10; i <= 95;i++)
+            {
+                if(i%5==0)
+                {
+                    Console.WriteLine(i+" ");
+                }
             }
         }
     }
