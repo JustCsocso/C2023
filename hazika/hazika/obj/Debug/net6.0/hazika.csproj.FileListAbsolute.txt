@@ -1,0 +1,14 @@
+D:\visual\szia\hazika\hazika\obj\Debug\net6.0\hazika.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\szia\hazika\hazika\obj\Debug\net6.0\hazika.AssemblyInfoInputs.cache
+D:\visual\szia\hazika\hazika\obj\Debug\net6.0\hazika.AssemblyInfo.cs
+D:\visual\szia\hazika\hazika\obj\Debug\net6.0\hazika.csproj.CoreCompileInputs.cache
+D:\visual\szia\hazika\hazika\bin\Debug\net6.0\hazika.exe
+D:\visual\szia\hazika\hazika\bin\Debug\net6.0\hazika.deps.json
+D:\visual\szia\hazika\hazika\bin\Debug\net6.0\hazika.runtimeconfig.json
+D:\visual\szia\hazika\hazika\bin\Debug\net6.0\hazika.dll
+D:\visual\szia\hazika\hazika\bin\Debug\net6.0\hazika.pdb
+D:\visual\szia\hazika\hazika\obj\Debug\net6.0\hazika.dll
+D:\visual\szia\hazika\hazika\obj\Debug\net6.0\refint\hazika.dll
+D:\visual\szia\hazika\hazika\obj\Debug\net6.0\hazika.pdb
+D:\visual\szia\hazika\hazika\obj\Debug\net6.0\hazika.genruntimeconfig.cache
+D:\visual\szia\hazika\hazika\obj\Debug\net6.0\ref\hazika.dll
