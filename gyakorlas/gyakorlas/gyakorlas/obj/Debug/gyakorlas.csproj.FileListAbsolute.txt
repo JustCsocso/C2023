@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\gyakorlas\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe.config
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\gyakorlas\gyakorlas\gyakorlas\bin\Debug\gyakorlas.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\gyakorlas\gyakorlas\gyakorlas\bin\Debug\gyakorlas.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\gyakorlas\gyakorlas\gyakorlas\obj\Debug\gyakorlas.pdb
