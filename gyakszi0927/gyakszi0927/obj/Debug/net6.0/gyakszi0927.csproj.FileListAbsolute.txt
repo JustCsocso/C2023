@@ -1,0 +1,14 @@
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\bin\Debug\net6.0\gyakszi0927.exe
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\bin\Debug\net6.0\gyakszi0927.deps.json
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\bin\Debug\net6.0\gyakszi0927.runtimeconfig.json
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\bin\Debug\net6.0\gyakszi0927.dll
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\bin\Debug\net6.0\gyakszi0927.pdb
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\obj\Debug\net6.0\gyakszi0927.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\obj\Debug\net6.0\gyakszi0927.AssemblyInfoInputs.cache
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\obj\Debug\net6.0\gyakszi0927.AssemblyInfo.cs
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\obj\Debug\net6.0\gyakszi0927.csproj.CoreCompileInputs.cache
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\obj\Debug\net6.0\gyakszi0927.dll
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\obj\Debug\net6.0\refint\gyakszi0927.dll
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\obj\Debug\net6.0\gyakszi0927.pdb
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\obj\Debug\net6.0\gyakszi0927.genruntimeconfig.cache
+C:\Users\pinterc21\source\repos\gyakszi0927\gyakszi0927\obj\Debug\net6.0\ref\gyakszi0927.dll

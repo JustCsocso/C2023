@@ -1,0 +1,14 @@
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\bin\Debug\net6.0\gyak0915.exe
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\bin\Debug\net6.0\gyak0915.deps.json
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\bin\Debug\net6.0\gyak0915.runtimeconfig.json
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\bin\Debug\net6.0\gyak0915.dll
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\bin\Debug\net6.0\gyak0915.pdb
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\obj\Debug\net6.0\gyak0915.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\obj\Debug\net6.0\gyak0915.AssemblyInfoInputs.cache
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\obj\Debug\net6.0\gyak0915.AssemblyInfo.cs
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\obj\Debug\net6.0\gyak0915.csproj.CoreCompileInputs.cache
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\obj\Debug\net6.0\gyak0915.dll
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\obj\Debug\net6.0\refint\gyak0915.dll
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\obj\Debug\net6.0\gyak0915.pdb
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\obj\Debug\net6.0\gyak0915.genruntimeconfig.cache
+C:\Users\pinterc21\source\repos\gyak0915\gyak0915\obj\Debug\net6.0\ref\gyak0915.dll
