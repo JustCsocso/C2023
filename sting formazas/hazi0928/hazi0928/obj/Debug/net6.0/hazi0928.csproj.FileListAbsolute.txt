@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\bin\Debug\net6.0\hazi0928.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\bin\Debug\net6.0\hazi0928.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\bin\Debug\net6.0\hazi0928.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\bin\Debug\net6.0\hazi0928.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\bin\Debug\net6.0\hazi0928.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\obj\Debug\net6.0\hazi0928.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\obj\Debug\net6.0\hazi0928.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\obj\Debug\net6.0\hazi0928.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\obj\Debug\net6.0\hazi0928.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\obj\Debug\net6.0\hazi0928.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\obj\Debug\net6.0\refint\hazi0928.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\obj\Debug\net6.0\hazi0928.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\obj\Debug\net6.0\hazi0928.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\hazi0928\hazi0928\obj\Debug\net6.0\ref\hazi0928.dll

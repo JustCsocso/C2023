@@ -1,0 +1,14 @@
+C:\Users\pinterc21\source\repos\doga\doga\bin\Debug\net6.0\doga.exe
+C:\Users\pinterc21\source\repos\doga\doga\bin\Debug\net6.0\doga.deps.json
+C:\Users\pinterc21\source\repos\doga\doga\bin\Debug\net6.0\doga.runtimeconfig.json
+C:\Users\pinterc21\source\repos\doga\doga\bin\Debug\net6.0\doga.dll
+C:\Users\pinterc21\source\repos\doga\doga\bin\Debug\net6.0\doga.pdb
+C:\Users\pinterc21\source\repos\doga\doga\obj\Debug\net6.0\doga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinterc21\source\repos\doga\doga\obj\Debug\net6.0\doga.AssemblyInfoInputs.cache
+C:\Users\pinterc21\source\repos\doga\doga\obj\Debug\net6.0\doga.AssemblyInfo.cs
+C:\Users\pinterc21\source\repos\doga\doga\obj\Debug\net6.0\doga.csproj.CoreCompileInputs.cache
+C:\Users\pinterc21\source\repos\doga\doga\obj\Debug\net6.0\doga.dll
+C:\Users\pinterc21\source\repos\doga\doga\obj\Debug\net6.0\refint\doga.dll
+C:\Users\pinterc21\source\repos\doga\doga\obj\Debug\net6.0\doga.pdb
+C:\Users\pinterc21\source\repos\doga\doga\obj\Debug\net6.0\doga.genruntimeconfig.cache
+C:\Users\pinterc21\source\repos\doga\doga\obj\Debug\net6.0\ref\doga.dll

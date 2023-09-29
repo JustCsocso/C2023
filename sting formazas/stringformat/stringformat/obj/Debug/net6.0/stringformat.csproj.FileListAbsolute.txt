@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\bin\Debug\net6.0\stringformat.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\bin\Debug\net6.0\stringformat.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\bin\Debug\net6.0\stringformat.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\bin\Debug\net6.0\stringformat.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\bin\Debug\net6.0\stringformat.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\obj\Debug\net6.0\stringformat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\obj\Debug\net6.0\stringformat.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\obj\Debug\net6.0\stringformat.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\obj\Debug\net6.0\stringformat.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\obj\Debug\net6.0\stringformat.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\obj\Debug\net6.0\refint\stringformat.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\obj\Debug\net6.0\stringformat.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\obj\Debug\net6.0\stringformat.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\sting formazas\stringformat\stringformat\obj\Debug\net6.0\ref\stringformat.dll
