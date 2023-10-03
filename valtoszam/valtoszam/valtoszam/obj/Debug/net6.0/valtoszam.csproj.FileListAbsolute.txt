@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\obj\Debug\net6.0\valtoszam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\obj\Debug\net6.0\valtoszam.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\obj\Debug\net6.0\valtoszam.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\obj\Debug\net6.0\valtoszam.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\bin\Debug\net6.0\valtoszam.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\bin\Debug\net6.0\valtoszam.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\bin\Debug\net6.0\valtoszam.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\bin\Debug\net6.0\valtoszam.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\bin\Debug\net6.0\valtoszam.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\obj\Debug\net6.0\valtoszam.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\obj\Debug\net6.0\refint\valtoszam.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\obj\Debug\net6.0\valtoszam.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\obj\Debug\net6.0\valtoszam.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\valtoszam\valtoszam\valtoszam\obj\Debug\net6.0\ref\valtoszam.dll
