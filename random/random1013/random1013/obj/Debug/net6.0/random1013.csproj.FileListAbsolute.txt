@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\bin\Debug\net6.0\random1013.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\bin\Debug\net6.0\random1013.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\bin\Debug\net6.0\random1013.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\bin\Debug\net6.0\random1013.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\bin\Debug\net6.0\random1013.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\obj\Debug\net6.0\random1013.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\obj\Debug\net6.0\random1013.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\obj\Debug\net6.0\random1013.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\obj\Debug\net6.0\random1013.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\obj\Debug\net6.0\random1013.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\obj\Debug\net6.0\refint\random1013.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\obj\Debug\net6.0\random1013.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\obj\Debug\net6.0\random1013.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\random\random1013\random1013\obj\Debug\net6.0\ref\random1013.dll
