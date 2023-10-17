@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\bin\Debug\net6.0\tombgyakszi.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\bin\Debug\net6.0\tombgyakszi.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\bin\Debug\net6.0\tombgyakszi.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\bin\Debug\net6.0\tombgyakszi.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\bin\Debug\net6.0\tombgyakszi.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\obj\Debug\net6.0\tombgyakszi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\obj\Debug\net6.0\tombgyakszi.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\obj\Debug\net6.0\tombgyakszi.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\obj\Debug\net6.0\tombgyakszi.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\obj\Debug\net6.0\tombgyakszi.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\obj\Debug\net6.0\refint\tombgyakszi.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\obj\Debug\net6.0\tombgyakszi.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\obj\Debug\net6.0\tombgyakszi.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\tombok\gyakszi1017\tombgyakszi\tombgyakszi\obj\Debug\net6.0\ref\tombgyakszi.dll
