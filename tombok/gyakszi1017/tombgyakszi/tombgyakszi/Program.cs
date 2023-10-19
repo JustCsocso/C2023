@@ -84,3 +84,39 @@ void szakasz2(int[] szakTomb)
     Console.WriteLine();
 }
 szakasz2(szamok);
+
+void szakasz3(int[] szakTomb)
+{
+    int kezd = 0;
+    int veg = 0;
+    int Maxkezd = 0;
+    int Maxveg = 0;
+
+    for (int i = 1; i < szakTomb.Length; i++)
+    {
+        if (szakTomb[i - 1] < szakTomb[i])
+        {
+
+        }
+        else
+        {
+            veg = i - 1;
+            if (veg - kezd + 1 > Maxveg - Maxkezd + 1)
+            {
+                Maxveg = veg;
+                Maxkezd = kezd;
+            }
+            kezd = i;
+        }
+    }
+
+    Console.WriteLine("A legnagyobb növekvő {0} számsorozat: ", Maxveg - Maxkezd);
+for (int i = Maxveg; i < Maxkezd + 1; i++)
+{
+    Console.Write("{0}, ", szakTomb[i]);
+}
+Console.WriteLine();
+}
+szakasz3(szamok);
+
+
