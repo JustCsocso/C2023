@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\bin\Debug\net6.0\gyak1025.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\bin\Debug\net6.0\gyak1025.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\bin\Debug\net6.0\gyak1025.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\bin\Debug\net6.0\gyak1025.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\bin\Debug\net6.0\gyak1025.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\obj\Debug\net6.0\gyak1025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\obj\Debug\net6.0\gyak1025.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\obj\Debug\net6.0\gyak1025.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\obj\Debug\net6.0\gyak1025.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\obj\Debug\net6.0\gyak1025.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\obj\Debug\net6.0\refint\gyak1025.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\obj\Debug\net6.0\gyak1025.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\obj\Debug\net6.0\gyak1025.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\string\gyak1025\gyak1025\obj\Debug\net6.0\ref\gyak1025.dll
