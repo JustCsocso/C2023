@@ -1,0 +1,14 @@
+H:\c# pinter\hazi\hazi\bin\Debug\net6.0\hazi.exe
+H:\c# pinter\hazi\hazi\bin\Debug\net6.0\hazi.deps.json
+H:\c# pinter\hazi\hazi\bin\Debug\net6.0\hazi.runtimeconfig.json
+H:\c# pinter\hazi\hazi\bin\Debug\net6.0\hazi.dll
+H:\c# pinter\hazi\hazi\bin\Debug\net6.0\hazi.pdb
+H:\c# pinter\hazi\hazi\obj\Debug\net6.0\hazi.GeneratedMSBuildEditorConfig.editorconfig
+H:\c# pinter\hazi\hazi\obj\Debug\net6.0\hazi.AssemblyInfoInputs.cache
+H:\c# pinter\hazi\hazi\obj\Debug\net6.0\hazi.AssemblyInfo.cs
+H:\c# pinter\hazi\hazi\obj\Debug\net6.0\hazi.csproj.CoreCompileInputs.cache
+H:\c# pinter\hazi\hazi\obj\Debug\net6.0\hazi.dll
+H:\c# pinter\hazi\hazi\obj\Debug\net6.0\refint\hazi.dll
+H:\c# pinter\hazi\hazi\obj\Debug\net6.0\hazi.pdb
+H:\c# pinter\hazi\hazi\obj\Debug\net6.0\hazi.genruntimeconfig.cache
+H:\c# pinter\hazi\hazi\obj\Debug\net6.0\ref\hazi.dll
