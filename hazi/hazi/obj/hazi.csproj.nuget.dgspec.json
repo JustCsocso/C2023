@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\c# pinter\\hazi\\hazi\\hazi.csproj": {}
+    "D:\\visual\\szia\\hazi\\hazi\\hazi.csproj": {}
   },
   "projects": {
-    "H:\\c# pinter\\hazi\\hazi\\hazi.csproj": {
+    "D:\\visual\\szia\\hazi\\hazi\\hazi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\c# pinter\\hazi\\hazi\\hazi.csproj",
+        "projectUniqueName": "D:\\visual\\szia\\hazi\\hazi\\hazi.csproj",
         "projectName": "hazi",
-        "projectPath": "H:\\c# pinter\\hazi\\hazi\\hazi.csproj",
-        "packagesPath": "C:\\Users\\pinterc21\\.nuget\\packages\\",
-        "outputPath": "H:\\c# pinter\\hazi\\hazi\\obj\\",
+        "projectPath": "D:\\visual\\szia\\hazi\\hazi\\hazi.csproj",
+        "packagesPath": "C:\\Users\\pcson\\.nuget\\packages\\",
+        "outputPath": "D:\\visual\\szia\\hazi\\hazi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pinterc21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pcson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

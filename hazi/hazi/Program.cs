@@ -1,59 +1,50 @@
-﻿// See https://aka.ms/new-console-template for more information
-//1. szo bekerese es ellenorizettek hogy szo e es kotojel lehet 
-//2. bekért szot karakterenkent megforditja es iratsa ki
-//3. 2-vel megforditani
-//4. szoveg bekeres es melyik betubol hany db
+﻿using System;
 
-//Bekerkunb egys szot, vegignezzuk ciklussal  minden betut ellenorzunk  ha benne van akkor folyt kovi ha nincs kiirjuk hogy ez nem szo
+//1. feladat
 
+string betuk = "qwertzuiopöüóőúasdfghjkléáűíyxcvbnm";
+var random = new Random();
+string[] szavak = new string[10000];
 
-Console.Write("Kérek egy szot: ");
-string szo = Convert.ToString(Console.ReadLine());
-string betuk = "qwertzuiopőúöüóasdfghjkléáűíyxcvbnm-";
-
-
-bool joE = true;
-for(int i=0; i < szo.Length; i++)
+for (int i = 0; i < 10000; i++)
 {
-    if (betuk.IndexOf(szo[i]) < 0)
+    string szo = "";
+    int hossz = random.Next(4, 7);
+    for (int k = 0; k < hossz; k++)
     {
-        Console.WriteLine("Nem jo");
-        joE = false;
-        break;
+        szo += betuk[random.Next(betuk.Length)];
     }
-    if(joE) 
+    szavak[i] = szo;
+}
+
+File.WriteAllLines("szavak.txt", szavak);
+
+//2. feladat
+
+string[] fajl = File.ReadAllLines("szavak.txt");
+for (int i = 0; i < fajl.Length; i++)
+{
+    //Console.WriteLine(fajl[i]);
+}
+for (int i = 0; i < fajl.Length; i++)
+{
+    if (fajl[i] == szavak[i])
     {
-        Console.WriteLine("{0} jó szó!", szo);
+        Console.WriteLine(fajl[i]);
     }
-    
+    else
+    {
 
+    }
 }
-string ujSzo = "";
-for (int i = szo.Length - 1; i >= 0; i--)
+
+string szoveg = "";
+for (int i = 0; i < fajl.Length; i++)
 {
-    ujSzo += szo[i];
-}
-Console.WriteLine(ujSzo);
-
-ujSzo = "";
-for (int i = 0; i < szo.Length; i++)
-{
-    ujSzo+= szo[szo.Length-1 -i];
-}
-Console.WriteLine(ujSzo);
-
-ujSzo = "";
-for(int i = 0;i < szo.Length; i++)
-{
-    ujSzo = szo[i] + ujSzo;
-}
-Console.WriteLine(ujSzo);
-
-ujSzo = "";
-for(int i = 0;i<szo.Length ; i += 2)
-{
-    ujSzo += szo.Substring(szo.Length-1-1,2);
+    if (fajl[i].Length == 4)
+    {
+        Console.WriteLine(fajl[i].ToUpper);
+    }
 }
 
-
-
+//ennyi ment, marmint fele se jo, de legalabb valami
