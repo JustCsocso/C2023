@@ -1,0 +1,28 @@
+D:\visual\szia\hazi\hazi\bin\Debug\net6.0\hazi.exe
+D:\visual\szia\hazi\hazi\bin\Debug\net6.0\hazi.deps.json
+D:\visual\szia\hazi\hazi\bin\Debug\net6.0\hazi.runtimeconfig.json
+D:\visual\szia\hazi\hazi\bin\Debug\net6.0\hazi.dll
+D:\visual\szia\hazi\hazi\bin\Debug\net6.0\hazi.pdb
+D:\visual\szia\hazi\hazi\obj\Debug\net6.0\hazi.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\szia\hazi\hazi\obj\Debug\net6.0\hazi.AssemblyInfoInputs.cache
+D:\visual\szia\hazi\hazi\obj\Debug\net6.0\hazi.AssemblyInfo.cs
+D:\visual\szia\hazi\hazi\obj\Debug\net6.0\hazi.csproj.CoreCompileInputs.cache
+D:\visual\szia\hazi\hazi\obj\Debug\net6.0\hazi.dll
+D:\visual\szia\hazi\hazi\obj\Debug\net6.0\refint\hazi.dll
+D:\visual\szia\hazi\hazi\obj\Debug\net6.0\hazi.pdb
+D:\visual\szia\hazi\hazi\obj\Debug\net6.0\hazi.genruntimeconfig.cache
+D:\visual\szia\hazi\hazi\obj\Debug\net6.0\ref\hazi.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\obj\Debug\net6.0\hazi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\obj\Debug\net6.0\hazi.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\obj\Debug\net6.0\hazi.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\obj\Debug\net6.0\hazi.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\obj\Debug\net6.0\hazi.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\obj\Debug\net6.0\refint\hazi.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\obj\Debug\net6.0\hazi.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\bin\Debug\net6.0\hazi.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\bin\Debug\net6.0\hazi.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\bin\Debug\net6.0\hazi.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\bin\Debug\net6.0\hazi.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\bin\Debug\net6.0\hazi.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\obj\Debug\net6.0\hazi.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\hazi\hazi\obj\Debug\net6.0\ref\hazi.dll
