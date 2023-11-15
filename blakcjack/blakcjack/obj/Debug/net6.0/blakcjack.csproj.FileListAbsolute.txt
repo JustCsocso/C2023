@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\bin\Debug\net6.0\blakcjack.exe
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\bin\Debug\net6.0\blakcjack.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\bin\Debug\net6.0\blakcjack.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\bin\Debug\net6.0\blakcjack.dll
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\bin\Debug\net6.0\blakcjack.pdb
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\obj\Debug\net6.0\blakcjack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\obj\Debug\net6.0\blakcjack.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\obj\Debug\net6.0\blakcjack.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\obj\Debug\net6.0\blakcjack.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\obj\Debug\net6.0\blakcjack.dll
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\obj\Debug\net6.0\refint\blakcjack.dll
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\obj\Debug\net6.0\blakcjack.pdb
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\obj\Debug\net6.0\blakcjack.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csocsi\C2023\blakcjack\blakcjack\obj\Debug\net6.0\ref\blakcjack.dll

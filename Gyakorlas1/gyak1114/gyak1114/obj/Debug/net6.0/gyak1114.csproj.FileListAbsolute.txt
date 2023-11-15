@@ -1,0 +1,14 @@
+H:\c# pinter\gyak1114\gyak1114\bin\Debug\net6.0\gyak1114.exe
+H:\c# pinter\gyak1114\gyak1114\bin\Debug\net6.0\gyak1114.deps.json
+H:\c# pinter\gyak1114\gyak1114\bin\Debug\net6.0\gyak1114.runtimeconfig.json
+H:\c# pinter\gyak1114\gyak1114\bin\Debug\net6.0\gyak1114.dll
+H:\c# pinter\gyak1114\gyak1114\bin\Debug\net6.0\gyak1114.pdb
+H:\c# pinter\gyak1114\gyak1114\obj\Debug\net6.0\gyak1114.GeneratedMSBuildEditorConfig.editorconfig
+H:\c# pinter\gyak1114\gyak1114\obj\Debug\net6.0\gyak1114.AssemblyInfoInputs.cache
+H:\c# pinter\gyak1114\gyak1114\obj\Debug\net6.0\gyak1114.AssemblyInfo.cs
+H:\c# pinter\gyak1114\gyak1114\obj\Debug\net6.0\gyak1114.csproj.CoreCompileInputs.cache
+H:\c# pinter\gyak1114\gyak1114\obj\Debug\net6.0\gyak1114.dll
+H:\c# pinter\gyak1114\gyak1114\obj\Debug\net6.0\refint\gyak1114.dll
+H:\c# pinter\gyak1114\gyak1114\obj\Debug\net6.0\gyak1114.pdb
+H:\c# pinter\gyak1114\gyak1114\obj\Debug\net6.0\gyak1114.genruntimeconfig.cache
+H:\c# pinter\gyak1114\gyak1114\obj\Debug\net6.0\ref\gyak1114.dll
