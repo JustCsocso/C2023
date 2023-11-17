@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\bin\Debug\net6.0\listagyak1117.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\bin\Debug\net6.0\listagyak1117.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\bin\Debug\net6.0\listagyak1117.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\bin\Debug\net6.0\listagyak1117.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\bin\Debug\net6.0\listagyak1117.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\obj\Debug\net6.0\listagyak1117.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\obj\Debug\net6.0\listagyak1117.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\obj\Debug\net6.0\listagyak1117.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\obj\Debug\net6.0\listagyak1117.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\obj\Debug\net6.0\listagyak1117.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\obj\Debug\net6.0\refint\listagyak1117.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\obj\Debug\net6.0\listagyak1117.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\obj\Debug\net6.0\listagyak1117.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\lista\listagyak1117\listagyak1117\obj\Debug\net6.0\ref\listagyak1117.dll
