@@ -3,17 +3,36 @@ List<string> kartyak=new List<string>();
 List<string> szinek=new List<string>() {"Treff", "Pikk", "Kőr", "Káró"};
 List<string> szamok=new List<string>() {"2","3","4","5","6","7","8","9","10","dáma","jumbo","király","ász" };
 Random rand=new Random();
-for (int i = 0; i < 52; i++)
+for (int i = 0; i < szinek.Count; i++)
 {
-    for (int j = 0; j <)
-    kartyak.Add($"{randszin} {randszam}");
+    for (int k = 0; k <szamok.Count;k++)
+    {
+        kartyak.Add($"{szinek[i]} {szamok[k]}");
+    }
+   
 }
 
 for (int i = 0;i < kartyak.Count; i++)
 {
     Console.WriteLine(kartyak[i]);
 }
-/*
-     string randszin = szinek[rand.Next(szinek.Count)];
-    string randszam = szamok[rand.Next(szamok.Count)];
- */
+
+Dictionary<string,int> ertekek=new Dictionary<string,int>();
+
+for (int i = 0;i<kartyak.Count ; i++)
+{
+    if (kartyak[i].IndexOf("jumbo") != -1 && kartyak[i].IndexOf("dáma") != -1 && kartyak[i].IndexOf("király") != -1)
+    {
+        ertekek.Add(kartyak[i], 10);
+
+    }
+    else if (kartyak[i].IndexOf("ász") != -1)
+    {
+        ertekek.Add(kartyak[i], 11);
+    }
+    else
+    {
+        ertekek.Add(kartyak[i], Convert.ToInt32(kartyak[i].Split(" ")[1]));
+    }
+}
+
