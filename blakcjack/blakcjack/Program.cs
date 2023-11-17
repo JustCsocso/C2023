@@ -12,10 +12,6 @@ for (int i = 0; i < szinek.Count; i++)
    
 }
 
-for (int i = 0;i < kartyak.Count; i++)
-{
-    Console.WriteLine(kartyak[i]);
-}
 
 Dictionary<string,int> ertekek=new Dictionary<string,int>();
 
@@ -35,4 +31,21 @@ for (int i = 0;i<kartyak.Count ; i++)
         ertekek.Add(kartyak[i], Convert.ToInt32(kartyak[i].Split(" ")[1]));
     }
 }
+for(int i = 0; i < 100; i++)
+{
+    for (int k = 0; k < ertekek.Count; k++)
+    {
+        int temprand = rand.Next(0, ertekek.Count - 1);
+        string temp1 = "";
+        kartyak[i] = kartyak[temprand];
+        kartyak[temprand] = temp1;
+    }
+}
+
+for (int i = 0;i < kartyak.Count; i++)
+{
+    Console.WriteLine(kartyak[i])
+}
+
+
 
