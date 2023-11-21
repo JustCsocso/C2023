@@ -1,26 +1,24 @@
-﻿// See https://aka.ms/new-console-template for more information
-List<string> kartyak=new List<string>();
-List<string> szinek=new List<string>() {"Treff", "Pikk", "Kőr", "Káró"};
-List<string> szamok=new List<string>() {"2","3","4","5","6","7","8","9","10","dáma","jumbo","király","ász" };
-Random rand=new Random();
-for (int i = 0; i < szinek.Count; i++)
+﻿//kártyák ósszerakása
+List<string> kartyak = new List<string>();
+List<string> szinek = new List<string>() { "Treff", "Pikk", "Káró", "Kőr" };
+List<string> szamok = new List<string>() { "2", "3", "4", "5", "6", "7", "8", "9", "10", "jumbo", "dáma", "király", "ász" };
+Random rand = new Random();
+for (int j = 0; j < szinek.Count; j++)
 {
-    for (int k = 0; k <szamok.Count;k++)
+    for (int k = 0; k < szamok.Count; k++)
     {
-        kartyak.Add($"{szinek[i]} {szamok[k]}");
+        kartyak.Add($"{szinek[j]} {szamok[k]}");
     }
-   
 }
 
+//értékadás a kártyáknak
+Dictionary<string, int> ertekek = new Dictionary<string, int>();
 
-Dictionary<string,int> ertekek=new Dictionary<string,int>();
-
-for (int i = 0;i<kartyak.Count ; i++)
+for (int i = 0; i < kartyak.Count; i++)
 {
-    if (kartyak[i].IndexOf("jumbo") != -1 && kartyak[i].IndexOf("dáma") != -1 && kartyak[i].IndexOf("király") != -1)
+    if (kartyak[i].IndexOf("jumbo") != -1 || kartyak[i].IndexOf("dáma") != -1 || kartyak[i].IndexOf("király") != -1)
     {
         ertekek.Add(kartyak[i], 10);
-
     }
     else if (kartyak[i].IndexOf("ász") != -1)
     {
@@ -31,21 +29,84 @@ for (int i = 0;i<kartyak.Count ; i++)
         ertekek.Add(kartyak[i], Convert.ToInt32(kartyak[i].Split(" ")[1]));
     }
 }
-for(int i = 0; i < 100; i++)
+
+//pakli keverés
+for (int k = 0; k < 100; k++)
 {
-    for (int k = 0; k < ertekek.Count; k++)
+    for (int i = 0; i < ertekek.Count; i++)
     {
-        int temprand = rand.Next(0, ertekek.Count - 1);
-        string temp1 = "";
+        int temprand = rand.Next(0, ertekek.Count);
+        string temp = kartyak[i];
         kartyak[i] = kartyak[temprand];
-        kartyak[temprand] = temp1;
+        kartyak[temprand] = temp;
     }
 }
 
-for (int i = 0;i < kartyak.Count; i++)
+
+//kártyaosztás
+List<string> jatekos = new List<string>();
+List<string> oszto = new List<string>();
+int jatekosertek = 0;
+int osztoertek = 0;
+
+for (int i = 0; i < 2; i++)
 {
-    Console.WriteLine(kartyak[i])
+    int tempjatekos = rand.Next(kartyak.Count);
+    jatekos.Add(kartyak[tempjatekos]);
+    kartyak.RemoveAt(tempjatekos);
+    if (jatekos.Count > 0)
+    {
+        if (jatekos[i].Split(" ")[1] == "ász")
+        {
+            jatekosertek += 1;
+        }
+        else
+        {
+            jatekosertek += ertekek[jatekos[i]];
+        }
+    }
+    Console.WriteLine("A játékos megkapta a {0} kártyát, össz érték: {1}", jatekos[i], jatekosertek);
+    int temposzto = rand.Next(kartyak.Count);
+    oszto.Add(kartyak[temposzto]);
+    kartyak.RemoveAt(temposzto);
+    osztoertek += ertekek[oszto[i]];
+    Console.WriteLine("Az osztó megkapta a(z) {0}. kártyáját. ", i + 1);
 }
+int osztodarab = 2;
 
+while (true)
+{
+    if (jatekosertek < 21)
+    {
+        Console.Write("Kérsz még kártyát? (igen/nem) ");
+        string valasz = Console.ReadLine();
+        if (valasz == "igen")
+        {
+            int tempjatekos = rand.Next(kartyak.Count);
+            jatekos.Add(kartyak[tempjatekos]);
+            kartyak.RemoveAt(tempjatekos);
+            if (jatekos[jatekos.Count - 1].Split(" ")[1] == "ász")
+            {
+                jatekosertek += 1;
+            }
+            else
+            {
+                jatekosertek += ertekek[jatekos[jatekos.Count - 1]];
+            }
+            Console.WriteLine("A játékos megkapta a {0} kártyát, össz érték: {1}", jatekos[jatekos.Count - 1], jatekosertek);
 
+        }
+        else if (valasz == "nem")
+        {
+            break;
+        }
+        else
+        {
+            Console.WriteLine("Ez nem jó válsz! ");
+        }
+    }
+    else
+    {
+        break;
+    }
 
