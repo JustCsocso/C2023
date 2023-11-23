@@ -1,4 +1,4 @@
-﻿//kártyák ósszerakása
+﻿//kártyák összerakása
 List<string> kartyak = new List<string>();
 List<string> szinek = new List<string>() { "Treff", "Pikk", "Káró", "Kőr" };
 List<string> szamok = new List<string>() { "2", "3", "4", "5", "6", "7", "8", "9", "10", "jumbo", "dáma", "király", "ász" };
@@ -54,9 +54,9 @@ for (int i = 0; i < 2; i++)
     int tempjatekos = rand.Next(kartyak.Count);
     jatekos.Add(kartyak[tempjatekos]);
     kartyak.RemoveAt(tempjatekos);
-    if (jatekos.Count > 0)
+    if (jatekosertek == 11)
     {
-        if (jatekos[i].Split(" ")[1] == "ász")
+        if (jatekos[1].Split(" ")[1] == "ász")
         {
             jatekosertek += 1;
         }
@@ -65,17 +65,43 @@ for (int i = 0; i < 2; i++)
             jatekosertek += ertekek[jatekos[i]];
         }
     }
+    else 
+    {
+        jatekosertek += ertekek[jatekos[i]]
+    }
     Console.WriteLine("A játékos megkapta a {0} kártyát, össz érték: {1}", jatekos[i], jatekosertek);
     int temposzto = rand.Next(kartyak.Count);
     oszto.Add(kartyak[temposzto]);
     kartyak.RemoveAt(temposzto);
     osztoertek += ertekek[oszto[i]];
-    Console.WriteLine("Az osztó megkapta a(z) {0}. kártyáját. ", i + 1);
+    if (i == 0)
+    {
+        Console.WriteLine("Az osztó megkapta a {0} kártyát, össz érték: {1}", oszto[i], osztoertek);
+    }
+    else
+    {
+        Console.WriteLine("Az osztó megkapta a második kártyáját. ");
+    }
 }
-int osztodarab = 2;
 
+int osztodarab = 2;
 while (true)
 {
+    if (osztoertek < 17)
+    {
+        osztodarab += 1;
+        int temposzto = rand.Next(kartyak.Count);
+        oszto.Add(kartyak[temposzto]);
+        kartyak.RemoveAt(temposzto);
+        osztoertek += ertekek[oszto[oszto.Count - 1]];
+        Console.WriteLine("Az osztó megkapta a(z) {0}. kártyáját. ", osztodarab);
+    }
+    else if (osztoertek > 21)
+    {
+        Console.WriteLine("A játékos nyert. ");
+        Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
+        break;
+    }
     if (jatekosertek < 21)
     {
         Console.Write("Kérsz még kártyát? (igen/nem) ");
@@ -94,10 +120,24 @@ while (true)
                 jatekosertek += ertekek[jatekos[jatekos.Count - 1]];
             }
             Console.WriteLine("A játékos megkapta a {0} kártyát, össz érték: {1}", jatekos[jatekos.Count - 1], jatekosertek);
-
         }
         else if (valasz == "nem")
         {
+            if (jatekosertek > osztoertek)
+            {
+                Console.WriteLine("A játékos nyert. ");
+                Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
+            }
+            else if (jatekosertek < osztoertek)
+            {
+                Console.WriteLine("Az osztó nyert. ");
+                Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
+            }
+            else
+            {
+                Console.WriteLine("Döntetlen. ");
+                Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
+            }
             break;
         }
         else
@@ -105,8 +145,17 @@ while (true)
             Console.WriteLine("Ez nem jó válsz! ");
         }
     }
-    else
+    else if(jatekosertek>21 && osztoertek> 21)
     {
+        Console.WriteLine("Döntetlen. ");
+        Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
+        break;
+
+    }
+    else if (jatekosertek > 21)
+    {
+        Console.WriteLine("Az osztó nyert. ");
+        Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
         break;
     }
-
+}
