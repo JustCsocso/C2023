@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\bin\Debug\net6.0\listadoga1205.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\bin\Debug\net6.0\listadoga1205.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\bin\Debug\net6.0\listadoga1205.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\bin\Debug\net6.0\listadoga1205.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\bin\Debug\net6.0\listadoga1205.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\obj\Debug\net6.0\listadoga1205.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\obj\Debug\net6.0\listadoga1205.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\obj\Debug\net6.0\listadoga1205.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\obj\Debug\net6.0\listadoga1205.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\obj\Debug\net6.0\listadoga1205.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\obj\Debug\net6.0\refint\listadoga1205.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\obj\Debug\net6.0\listadoga1205.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\obj\Debug\net6.0\listadoga1205.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\listadoga1205\listadoga1205\obj\Debug\net6.0\ref\listadoga1205.dll

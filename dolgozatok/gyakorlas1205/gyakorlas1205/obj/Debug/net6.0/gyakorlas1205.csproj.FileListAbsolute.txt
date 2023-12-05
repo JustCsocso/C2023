@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\bin\Debug\net6.0\gyakorlas1205.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\bin\Debug\net6.0\gyakorlas1205.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\bin\Debug\net6.0\gyakorlas1205.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\bin\Debug\net6.0\gyakorlas1205.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\bin\Debug\net6.0\gyakorlas1205.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\obj\Debug\net6.0\gyakorlas1205.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\obj\Debug\net6.0\gyakorlas1205.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\obj\Debug\net6.0\gyakorlas1205.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\obj\Debug\net6.0\gyakorlas1205.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\obj\Debug\net6.0\gyakorlas1205.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\obj\Debug\net6.0\refint\gyakorlas1205.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\obj\Debug\net6.0\gyakorlas1205.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\obj\Debug\net6.0\gyakorlas1205.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\dolgozatok\gyakorlas1205\gyakorlas1205\obj\Debug\net6.0\ref\gyakorlas1205.dll
