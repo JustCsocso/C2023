@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\bin\Debug\net6.0\gyakszika0109.exe
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\bin\Debug\net6.0\gyakszika0109.deps.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\bin\Debug\net6.0\gyakszika0109.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\bin\Debug\net6.0\gyakszika0109.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\bin\Debug\net6.0\gyakszika0109.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\obj\Debug\net6.0\gyakszika0109.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\obj\Debug\net6.0\gyakszika0109.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\obj\Debug\net6.0\gyakszika0109.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\obj\Debug\net6.0\gyakszika0109.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\obj\Debug\net6.0\gyakszika0109.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\obj\Debug\net6.0\refint\gyakszika0109.dll
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\obj\Debug\net6.0\gyakszika0109.pdb
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\obj\Debug\net6.0\gyakszika0109.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Pintér Csongi\C2023\Gyakorlas1\gyakszika0109\gyakszika0109\obj\Debug\net6.0\ref\gyakszika0109.dll
