@@ -1,0 +1,38 @@
+﻿<Window x:Class="hazi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hazi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Slider x:Name="slider1_Copy" HorizontalAlignment="Left" Margin="-39,143,0,0" VerticalAlignment="Top" Width="110" RenderTransformOrigin="0.5,0.5" Orientation="Vertical" Height="119" Maximum="1" Value="1">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="178.715"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="296,43,0,0" VerticalAlignment="Top" Width="230" Maximum="1" Value="1" ValueChanged="Slider_ValueChanged_1"/>
+        <Slider x:Name="slider1" HorizontalAlignment="Left" Margin="739,150,0,0" VerticalAlignment="Top" Width="111" RenderTransformOrigin="0.5,0.5" Orientation="Vertical" Height="106" Maximum="1" Value="1" ValueChanged="Slider_ValueChanged_2">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.544"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Slider x:Name="slider_Copy" HorizontalAlignment="Center" Margin="0,332,0,0" VerticalAlignment="Top" Width="230" Maximum="1" Value="1" ValueChanged="Slider_ValueChanged"/>
+        <Image x:Name="macska" HorizontalAlignment="Left" Height="100" Margin="697,10,0,0" VerticalAlignment="Top" Width="100" Source="/a.jpg"/>
+        <Image x:Name="macska1" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100" Source="/a.jpg"/>
+        <Image x:Name="macska1_Copy" HorizontalAlignment="Left" Height="100" Margin="10,332,0,0" VerticalAlignment="Top" Width="100" Source="/a.jpg"/>
+        <Image x:Name="macska_Copy" HorizontalAlignment="Left" Height="100" Margin="697,332,0,0" VerticalAlignment="Top" Width="100" Source="/a.jpg"/>
+
+    </Grid>
+</Window>

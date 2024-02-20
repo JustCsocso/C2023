@@ -1,0 +1,63 @@
+﻿<Window x:Class="kutya.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kutya"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="buttonnnnnn" DragOver="Grid_DragOver" GotMouseCapture="buttonnnnnn_GotMouseCapture">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="421*"/>
+        </Grid.RowDefinitions>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="399,148,0,0" VerticalAlignment="Top" Click="Button_Click" RenderTransformOrigin="0.5,0.5" Height="76" Width="74" Grid.Row="1">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.653"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <RichTextBox TextChanged="RichTextBox_TextChanged" Grid.RowSpan="2">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <Run Text=" "/>
+                    <InlineUIContainer>
+                        <Slider Width="120" ValueChanged="Slider_ValueChanged"/>
+                    </InlineUIContainer>
+                    <Run Text=" "/>
+                    <InlineUIContainer>
+                        <Slider Width="120" ValueChanged="Slider_ValueChanged_2"/>
+                    </InlineUIContainer>
+                    <Run Text=" "/>
+                    <InlineUIContainer>
+                        <Image Height="113" Width="102" RenderTransformOrigin="0.5,0.5">
+                            <Image.RenderTransform>
+                                <TransformGroup>
+                                    <ScaleTransform/>
+                                    <SkewTransform/>
+                                    <RotateTransform Angle="64.855"/>
+                                    <TranslateTransform/>
+                                </TransformGroup>
+                            </Image.RenderTransform>
+                        </Image>
+                    </InlineUIContainer>
+                    <Run Text=" "/>
+                    <InlineUIContainer>
+                        <Image x:Name="panda" Height="137" Width="193" Source="/panda.png"/>
+                    </InlineUIContainer>
+                    <InlineUIContainer>
+                        <Button Content="Button"/>
+                    </InlineUIContainer>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>
