@@ -33,5 +33,10 @@ namespace gyak0220
 
             textBlock1.Text=textBox.Text+" + "+ textBox2.Text+" = "+ osszeg.ToString()+"\n";
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }
